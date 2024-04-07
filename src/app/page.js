@@ -62,7 +62,9 @@ const Home = () => {
 
 			<div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-8">
 				{filteredCards.length > 0 ? (
-					filteredCards.map((card) => <Card card={card} />)
+					filteredCards.map((card) => (
+						<Card key={card.id} card={card} />
+					))
 				) : (
 					<p className="text-center text-gray-500 col-span-full">
 						No cards found.
