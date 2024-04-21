@@ -59,10 +59,6 @@ The application will start running on [http://localhost:3000](http://localhost:3
 -   **Filtering by Category**: Click a category button to display tools related to that category.
 -   **Filtering by Price**: Use the toggle switch to display either all tools or only the free tools.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contact Information
 
 For any additional questions or comments, please reach out through:
