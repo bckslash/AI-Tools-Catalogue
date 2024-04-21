@@ -5,7 +5,8 @@
 		"name": "ChatGPT",
 		"description": "ChatGPT by OpenAI is a large language model that interacts in a conversational way.",
 		"useCase": "Chatbot",
-		"tags": ["OpenAI", "Language Model", "Conversational"]
+		"tags": ["OpenAI", "Language Model", "Conversational"],
+		"free": true
 	},
 	{
 		"id": 2,
@@ -13,7 +14,8 @@
 		"name": "Bing Chat",
 		"description": "A conversational AI language model powered by Microsoft Bing.",
 		"useCase": "Chatbot",
-		"tags": ["Microsoft", "Bing", "Language Model"]
+		"tags": ["Microsoft", "Bing", "Language Model"],
+		"free": true
 	},
 	{
 		"id": 3,
@@ -21,7 +23,8 @@
 		"name": "Gemini",
 		"description": "An experimental AI chatbot by Google, powered by the LaMDA model.",
 		"useCase": "Chatbot",
-		"tags": ["Google", "LaMDA", "Experimental"]
+		"tags": ["Google", "LaMDA", "Experimental"],
+		"free": true
 	},
 	{
 		"id": 4,
@@ -29,7 +32,8 @@
 		"name": "Character.AI",
 		"description": "Character.AI lets you create characters and chat to them.",
 		"useCase": "Chatbot",
-		"tags": ["Character Creation", "Interactive", "Creative"]
+		"tags": ["Character Creation", "Interactive", "Creative"],
+		"free": true
 	},
 	{
 		"id": 5,
@@ -37,7 +41,8 @@
 		"name": "ChatPDF",
 		"description": "Chat with any PDF.",
 		"useCase": "Chatbot",
-		"tags": ["PDF", "Interactive", "Document Handling"]
+		"tags": ["PDF", "Interactive", "Document Handling"],
+		"free": true
 	},
 	{
 		"id": 6,
@@ -45,7 +50,8 @@
 		"name": "ChatSonic",
 		"description": "An AI-powered assistant that enables text and image creation.",
 		"useCase": "Chatbot",
-		"tags": ["Content Creation", "AI Assistant", "Text and Image"]
+		"tags": ["Content Creation", "AI Assistant", "Text and Image"],
+		"free": "False"
 	},
 	{
 		"id": 7,
@@ -53,7 +59,8 @@
 		"name": "Phind",
 		"description": "Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.",
 		"useCase": "Chatbot",
-		"tags": ["Programming", "Search Engine", "Codebase Navigation"]
+		"tags": ["Programming", "Search Engine", "Codebase Navigation"],
+		"free": true
 	},
 	{
 		"id": 8,
@@ -61,7 +68,8 @@
 		"name": "Tiledesk",
 		"description": "Open-source LLM-enabled no-code chatbot development framework. Design, test and launch your flows on all your channels in minutes.",
 		"useCase": "Chatbot",
-		"tags": ["Open-Source", "LLM-Enabled", "No-Code Development"]
+		"tags": ["Open-Source", "LLM-Enabled", "No-Code Development"],
+		"free": true
 	},
 	{
 		"id": 9,
@@ -69,7 +77,8 @@
 		"name": "AICamp",
 		"description": "ChatGPT for Teams",
 		"useCase": "Chatbot",
-		"tags": ["Teams", "Collaboration", "Productivity"]
+		"tags": ["Teams", "Collaboration", "Productivity"],
+		"free": true
 	},
 	{
 		"id": 10,
@@ -77,7 +86,8 @@
 		"name": "Jasper",
 		"description": "Create content faster with artificial intelligence.",
 		"useCase": "Writing",
-		"tags": ["Content Creation", "AI", "Productivity"]
+		"tags": ["Content Creation", "AI", "Productivity"],
+		"free": "False"
 	},
 	{
 		"id": 11,
@@ -85,7 +95,8 @@
 		"name": "Compose AI",
 		"description": "Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.",
 		"useCase": "Writing",
-		"tags": ["Chrome Extension", "Autocompletion", "Efficiency"]
+		"tags": ["Chrome Extension", "Autocompletion", "Efficiency"],
+		"free": true
 	},
 	{
 		"id": 12,
@@ -93,7 +104,8 @@
 		"name": "Rytr",
 		"description": "Rytr is an AI writing assistant that helps you create high-quality content.",
 		"useCase": "Writing",
-		"tags": ["AI Assistant", "Content Quality", "Writing Aid"]
+		"tags": ["AI Assistant", "Content Quality", "Writing Aid"],
+		"free": true
 	},
 	{
 		"id": 13,
@@ -101,7 +113,8 @@
 		"name": "wordtune",
 		"description": "Personal writing assistant.",
 		"useCase": "Writing",
-		"tags": ["Writing Assistant", "Personal", "Editing"]
+		"tags": ["Writing Assistant", "Personal", "Editing"],
+		"free": true
 	},
 	{
 		"id": 14,
@@ -109,7 +122,8 @@
 		"name": "HyperWrite",
 		"description": "HyperWrite helps you write with confidence and get your work done faster from idea to final draft.",
 		"useCase": "Writing",
-		"tags": ["Confidence", "Productivity", "Idea to Draft"]
+		"tags": ["Confidence", "Productivity", "Idea to Draft"],
+		"free": true
 	},
 	{
 		"id": 15,
@@ -117,7 +131,8 @@
 		"name": "Moonbeam",
 		"description": "Better blogs in a fraction of the time.",
 		"useCase": "Writing",
-		"tags": ["Blogging", "Efficiency", "AI Writing"]
+		"tags": ["Blogging", "Efficiency", "AI Writing"],
+		"free": true
 	},
 	{
 		"id": 16,
@@ -125,7 +140,8 @@
 		"name": "copy.ai",
 		"description": "Write better marketing copy and content with AI.",
 		"useCase": "Writing",
-		"tags": ["Marketing", "Content Creation", "AI Copywriting"]
+		"tags": ["Marketing", "Content Creation", "AI Copywriting"],
+		"free": true
 	},
 	{
 		"id": 17,
@@ -133,7 +149,8 @@
 		"name": "Anyword",
 		"description": "Anyword's AI writing assistant generates effective copy for anyone.",
 		"useCase": "Writing",
-		"tags": ["AI Assistant", "Copywriting", "Effectiveness"]
+		"tags": ["AI Assistant", "Copywriting", "Effectiveness"],
+		"free": true
 	},
 	{
 		"id": 18,
@@ -141,7 +158,8 @@
 		"name": "Contenda",
 		"description": "Create the content your audience wants, from content you've already made.",
 		"useCase": "Writing",
-		"tags": ["Content Repurposing", "Audience Engagement", "AI"]
+		"tags": ["Content Repurposing", "Audience Engagement", "AI"],
+		"free": true
 	},
 	{
 		"id": 19,
@@ -149,7 +167,8 @@
 		"name": "Hypotenuse AI",
 		"description": "Turn a few keywords into original, insightful articles, product descriptions and social media copy.",
 		"useCase": "Writing",
-		"tags": ["SEO", "Content Generation", "Keywords"]
+		"tags": ["SEO", "Content Generation", "Keywords"],
+		"free": true
 	},
 	{
 		"id": 20,
@@ -157,7 +176,8 @@
 		"name": "Lavender",
 		"description": "Lavender email assistant helps you get more replies in less time.",
 		"useCase": "Writing",
-		"tags": ["Email Assistant", "Productivity", "Communication"]
+		"tags": ["Email Assistant", "Productivity", "Communication"],
+		"free": true
 	},
 	{
 		"id": 21,
@@ -165,7 +185,8 @@
 		"name": "Lex",
 		"description": "A word processor with artificial intelligence baked in, so you can write faster.",
 		"useCase": "Writing",
-		"tags": ["Word Processor", "AI", "Efficiency"]
+		"tags": ["Word Processor", "AI", "Efficiency"],
+		"free": true
 	},
 	{
 		"id": 22,
@@ -173,7 +194,8 @@
 		"name": "Jenni",
 		"description": "Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.",
 		"useCase": "Writing",
-		"tags": ["Writing Assistant", "Ideation", "Time Saving"]
+		"tags": ["Writing Assistant", "Ideation", "Time Saving"],
+		"free": true
 	},
 	{
 		"id": 23,
@@ -181,7 +203,8 @@
 		"name": "LAIKA",
 		"description": "LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.",
 		"useCase": "Writing",
-		"tags": ["Personalization", "AI Training", "Creative Writing"]
+		"tags": ["Personalization", "AI Training", "Creative Writing"],
+		"free": "False"
 	},
 	{
 		"id": 24,
@@ -189,7 +212,8 @@
 		"name": "QuillBot",
 		"description": "AI-powered paraphrasing tool.",
 		"useCase": "Writing",
-		"tags": ["Paraphrasing", "AI Tool", "Writing Enhancement"]
+		"tags": ["Paraphrasing", "AI Tool", "Writing Enhancement"],
+		"free": true
 	},
 	{
 		"id": 25,
@@ -197,7 +221,8 @@
 		"name": "Postwise",
 		"description": "Write tweets, schedule posts and grow your following using AI.",
 		"useCase": "Writing",
-		"tags": ["Social Media", "Content Scheduling", "AI"]
+		"tags": ["Social Media", "Content Scheduling", "AI"],
+		"free": "False"
 	},
 	{
 		"id": 26,
@@ -205,7 +230,8 @@
 		"name": "Copysmith",
 		"description": "AI content creation solution for Enterprise & eCommerce.",
 		"useCase": "Writing",
-		"tags": ["Enterprise", "eCommerce", "Content Creation"]
+		"tags": ["Enterprise", "eCommerce", "Content Creation"],
+		"free": "False"
 	},
 	{
 		"id": 27,
@@ -213,7 +239,8 @@
 		"name": "Yomu",
 		"description": "AI writing assistant for students and academics.",
 		"useCase": "Writing",
-		"tags": ["Academic", "Student", "AI Assistant"]
+		"tags": ["Academic", "Student", "AI Assistant"],
+		"free": true
 	},
 	{
 		"id": 28,
@@ -221,7 +248,8 @@
 		"name": "Listomatic",
 		"description": "Free and fully configurable real estate listing description generator.",
 		"useCase": "Writing",
-		"tags": ["Real Estate", "Listing Generator", "Customizable"]
+		"tags": ["Real Estate", "Listing Generator", "Customizable"],
+		"free": true
 	},
 	{
 		"id": 29,
@@ -229,7 +257,8 @@
 		"name": "Quick Creator",
 		"description": "SEO-Optimized Blog platform powered by AI.",
 		"useCase": "Writing",
-		"tags": ["SEO", "Blogging", "AI-Powered"]
+		"tags": ["SEO", "Blogging", "AI-Powered"],
+		"free": "False"
 	},
 	{
 		"id": 30,
@@ -237,7 +266,8 @@
 		"name": "Telborg",
 		"description": "Write a high-quality first draft on any Climate topic in minutes.",
 		"useCase": "Writing",
-		"tags": ["Climate", "Drafting", "Quality Content"]
+		"tags": ["Climate", "Drafting", "Quality Content"],
+		"free": true
 	},
 	{
 		"id": 31,
@@ -245,7 +275,8 @@
 		"name": "Mem",
 		"description": "Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.",
 		"useCase": "Productivity",
-		"tags": ["AI Workspace", "Creativity", "Automation"]
+		"tags": ["AI Workspace", "Creativity", "Automation"],
+		"free": true
 	},
 	{
 		"id": 32,
@@ -253,7 +284,8 @@
 		"name": "Taskade",
 		"description": "Outline tasks, notes, generated structured lists and mind maps with Taskade AI.",
 		"useCase": "Productivity",
-		"tags": ["Task Management", "Mind Maps", "AI"]
+		"tags": ["Task Management", "Mind Maps", "AI"],
+		"free": true
 	},
 	{
 		"id": 33,
@@ -261,7 +293,8 @@
 		"name": "Notion AI",
 		"description": "Write better, more efficient notes and docs.",
 		"useCase": "Productivity",
-		"tags": ["Notetaking", "Efficiency", "Documentation"]
+		"tags": ["Notetaking", "Efficiency", "Documentation"],
+		"free": true
 	},
 	{
 		"id": 34,
@@ -269,7 +302,8 @@
 		"name": "Nekton AI",
 		"description": "Automate your workflows with AI. Describe your workflows step by step in plain language.",
 		"useCase": "Productivity",
-		"tags": ["Workflow Automation", "AI", "Plain Language"]
+		"tags": ["Workflow Automation", "AI", "Plain Language"],
+		"free": "False"
 	},
 	{
 		"id": 35,
@@ -277,7 +311,8 @@
 		"name": "Elephas",
 		"description": "Personal AI writing assistant for the Mac.",
 		"useCase": "Productivity",
-		"tags": ["Writing Assistant", "Mac", "Personal AI"]
+		"tags": ["Writing Assistant", "Mac", "Personal AI"],
+		"free": true
 	},
 	{
 		"id": 36,
@@ -285,7 +320,8 @@
 		"name": "Lemmy",
 		"description": "Autonomous AI Assistant for Work.",
 		"useCase": "Productivity",
-		"tags": ["AI Assistant", "Work", "Autonomy"]
+		"tags": ["AI Assistant", "Work", "Autonomy"],
+		"free": true
 	},
 	{
 		"id": 37,
@@ -293,7 +329,8 @@
 		"name": "Google Sheets Formula Generator",
 		"description": "Forget about frustrating formulas in Google Sheets.",
 		"useCase": "Productivity",
-		"tags": ["Google Sheets", "Formulas", "AI Generator"]
+		"tags": ["Google Sheets", "Formulas", "AI Generator"],
+		"free": true
 	},
 	{
 		"id": 38,
@@ -301,7 +338,8 @@
 		"name": "CreateEasily",
 		"description": "Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.",
 		"useCase": "Productivity",
-		"tags": ["Speech-to-Text", "Transcription", "Content Creation"]
+		"tags": ["Speech-to-Text", "Transcription", "Content Creation"],
+		"free": true
 	},
 	{
 		"id": 39,
@@ -309,7 +347,8 @@
 		"name": "aiPDF",
 		"description": "The most advanced AI document assistant",
 		"useCase": "Productivity",
-		"tags": ["Document Assistant", "PDF", "AI"]
+		"tags": ["Document Assistant", "PDF", "AI"],
+		"free": true
 	},
 	{
 		"id": 40,
@@ -317,7 +356,8 @@
 		"name": "Summary With AI",
 		"description": "Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.",
 		"useCase": "Productivity",
-		"tags": ["Summarization", "PDF", "AI"]
+		"tags": ["Summarization", "PDF", "AI"],
+		"free": true
 	},
 	{
 		"id": 41,
@@ -325,7 +365,8 @@
 		"name": "Emilio",
 		"description": "Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time",
 		"useCase": "Productivity",
-		"tags": ["Email Management", "Automation", "Time Saving"]
+		"tags": ["Email Management", "Automation", "Time Saving"],
+		"free": true
 	},
 	{
 		"id": 42,
@@ -333,7 +374,8 @@
 		"name": "Pieces",
 		"description": "AI-enabled productivity tool designed to supercharge developer efficiency, with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow",
 		"useCase": "Productivity",
-		"tags": ["Developer Tools", "AI Copilot", "Efficiency"]
+		"tags": ["Developer Tools", "AI Copilot", "Efficiency"],
+		"free": true
 	},
 	{
 		"id": 43,
@@ -341,7 +383,8 @@
 		"name": "co:here",
 		"description": "Cohere provides access to advanced Large Language Models and NLP tools.",
 		"useCase": "Programming",
-		"tags": ["NLP", "Language Models", "Development"]
+		"tags": ["NLP", "Language Models", "Development"],
+		"free": true
 	},
 	{
 		"id": 44,
@@ -349,7 +392,8 @@
 		"name": "Haystack",
 		"description": "A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.",
 		"useCase": "Programming",
-		"tags": ["NLP Applications", "Semantic Search", "Language Models"]
+		"tags": ["NLP Applications", "Semantic Search", "Language Models"],
+		"free": "False"
 	},
 	{
 		"id": 45,
@@ -357,7 +401,8 @@
 		"name": "Keploy",
 		"description": "Open source Tool for converting user traffic to Test Cases and Data Stubs.",
 		"useCase": "Programming",
-		"tags": ["Open Source", "Testing", "Traffic Analysis"]
+		"tags": ["Open Source", "Testing", "Traffic Analysis"],
+		"free": true
 	},
 	{
 		"id": 46,
@@ -365,7 +410,8 @@
 		"name": "LangChain",
 		"description": "A framework for developing applications powered by language models.",
 		"useCase": "Programming",
-		"tags": ["Development Framework", "Language Models", "App Development"]
+		"tags": ["Development Framework", "Language Models", "App Development"],
+		"free": true
 	},
 	{
 		"id": 47,
@@ -373,7 +419,8 @@
 		"name": "gpt4all",
 		"description": "A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.",
 		"useCase": "Programming",
-		"tags": ["Chatbot", "Assistant Data", "Code"]
+		"tags": ["Chatbot", "Assistant Data", "Code"],
+		"free": true
 	},
 	{
 		"id": 48,
@@ -381,7 +428,8 @@
 		"name": "LMQL",
 		"description": "LMQL is a query language for large language models.",
 		"useCase": "Programming",
-		"tags": ["Query Language", "Language Models", "Development"]
+		"tags": ["Query Language", "Language Models", "Development"],
+		"free": true
 	},
 	{
 		"id": 49,
@@ -389,7 +437,8 @@
 		"name": "LlamaIndex",
 		"description": "A data framework for building LLM applications over external data.",
 		"useCase": "Programming",
-		"tags": ["Data Framework", "LLM Applications", "External Data"]
+		"tags": ["Data Framework", "LLM Applications", "External Data"],
+		"free": true
 	},
 	{
 		"id": 50,
@@ -397,7 +446,8 @@
 		"name": "Phoenix",
 		"description": "Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.",
 		"useCase": "Programming",
-		"tags": ["Open Source", "Machine Learning", "Model Monitoring"]
+		"tags": ["Open Source", "Machine Learning", "Model Monitoring"],
+		"free": true
 	},
 	{
 		"id": 51,
@@ -405,7 +455,8 @@
 		"name": "Prediction Guard",
 		"description": "Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.",
 		"useCase": "Programming",
-		"tags": ["LLM", "Integration", "Compliance"]
+		"tags": ["LLM", "Integration", "Compliance"],
+		"free": true
 	},
 	{
 		"id": 52,
@@ -413,7 +464,8 @@
 		"name": "Portkey",
 		"description": "Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.",
 		"useCase": "Programming",
-		"tags": ["LLMOps", "App Management", "Monitoring"]
+		"tags": ["LLMOps", "App Management", "Monitoring"],
+		"free": true
 	},
 	{
 		"id": 53,
@@ -421,7 +473,8 @@
 		"name": "OpenAI Downtime Monitor",
 		"description": "Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.",
 		"useCase": "Programming",
-		"tags": ["API Monitoring", "OpenAI", "LLM"]
+		"tags": ["API Monitoring", "OpenAI", "LLM"],
+		"free": true
 	},
 	{
 		"id": 54,
@@ -429,7 +482,8 @@
 		"name": "ChatWithCloud",
 		"description": "CLI allowing you to interact with AWS Cloud using human language inside your Terminal.",
 		"useCase": "Programming",
-		"tags": ["AWS", "CLI", "Cloud Interaction"]
+		"tags": ["AWS", "CLI", "Cloud Interaction"],
+		"free": "False"
 	},
 	{
 		"id": 55,
@@ -437,7 +491,8 @@
 		"name": "GitHub Copilot",
 		"description": "GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.",
 		"useCase": "Programming",
-		"tags": ["GitHub", "OpenAI Codex", "Code Suggestions"]
+		"tags": ["GitHub", "OpenAI Codex", "Code Suggestions"],
+		"free": "False"
 	},
 	{
 		"id": 56,
@@ -445,7 +500,8 @@
 		"name": "OpenAI Codex",
 		"description": "An AI system by OpenAI that translates natural language to code.",
 		"useCase": "Programming",
-		"tags": ["OpenAI", "Code Generation", "NLP"]
+		"tags": ["OpenAI", "Code Generation", "NLP"],
+		"free": "False"
 	},
 	{
 		"id": 57,
@@ -453,7 +509,8 @@
 		"name": "Ghostwriter",
 		"description": "An AI-powered pair programmer by Replit.",
 		"useCase": "Programming",
-		"tags": ["Pair Programming", "AI", "Coding"]
+		"tags": ["Pair Programming", "AI", "Coding"],
+		"free": true
 	},
 	{
 		"id": 58,
@@ -461,7 +518,8 @@
 		"name": "Amazon CodeWhisperer",
 		"description": "Build applications faster with the ML-powered coding companion.",
 		"useCase": "Programming",
-		"tags": ["Coding Companion", "Machine Learning", "App Development"]
+		"tags": ["Coding Companion", "Machine Learning", "App Development"],
+		"free": "False"
 	},
 	{
 		"id": 59,
@@ -469,7 +527,8 @@
 		"name": "tabnine",
 		"description": "Code faster with whole-line & full-function code completions.",
 		"useCase": "Programming",
-		"tags": ["Code Completion", "Efficiency", "Development"]
+		"tags": ["Code Completion", "Efficiency", "Development"],
+		"free": true
 	},
 	{
 		"id": 60,
@@ -477,7 +536,8 @@
 		"name": "Stenography",
 		"description": "Automatic code documentation.",
 		"useCase": "Programming",
-		"tags": ["Documentation", "Automation", "Coding"]
+		"tags": ["Documentation", "Automation", "Coding"],
+		"free": true
 	},
 	{
 		"id": 61,
@@ -485,7 +545,8 @@
 		"name": "Mintlify",
 		"description": "AI powered documentation writer.",
 		"useCase": "Programming",
-		"tags": ["AI Writer", "Documentation", "Efficiency"]
+		"tags": ["AI Writer", "Documentation", "Efficiency"],
+		"free": true
 	},
 	{
 		"id": 62,
@@ -493,7 +554,8 @@
 		"name": "Debuild",
 		"description": "AI-powered low-code tool for web apps.",
 		"useCase": "Programming",
-		"tags": ["Low-code", "Web App Development", "AI"]
+		"tags": ["Low-code", "Web App Development", "AI"],
+		"free": true
 	},
 	{
 		"id": 63,
@@ -501,7 +563,8 @@
 		"name": "AI2sql",
 		"description": "With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.",
 		"useCase": "Programming",
-		"tags": ["SQL", "Query Generation", "Accessibility"]
+		"tags": ["SQL", "Query Generation", "Accessibility"],
+		"free": true
 	},
 	{
 		"id": 64,
@@ -509,7 +572,8 @@
 		"name": "CodiumAI",
 		"description": "With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.",
 		"useCase": "Programming",
-		"tags": ["Testing", "IDE", "Confidence"]
+		"tags": ["Testing", "IDE", "Confidence"],
+		"free": true
 	},
 	{
 		"id": 65,
@@ -517,7 +581,8 @@
 		"name": "PR-Agent",
 		"description": "AI-powered tool for automated PR analysis, feedback, suggestions, and more.",
 		"useCase": "Programming",
-		"tags": ["PR Analysis", "Automation", "Feedback"]
+		"tags": ["PR Analysis", "Automation", "Feedback"],
+		"free": true
 	},
 	{
 		"id": 66,
@@ -525,7 +590,8 @@
 		"name": "MutableAI",
 		"description": "AI Accelerated Software Development.",
 		"useCase": "Programming",
-		"tags": ["Software Development", "AI Acceleration", "Productivity"]
+		"tags": ["Software Development", "AI Acceleration", "Productivity"],
+		"free": true
 	},
 	{
 		"id": 67,
@@ -533,7 +599,8 @@
 		"name": "TurboPilot",
 		"description": "A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.",
 		"useCase": "Programming",
-		"tags": ["Self-hosted", "Copilot Clone", "Resource Efficiency"]
+		"tags": ["Self-hosted", "Copilot Clone", "Resource Efficiency"],
+		"free": true
 	},
 	{
 		"id": 68,
@@ -541,7 +608,8 @@
 		"name": "GPT-Code UI",
 		"description": "An open-source implementation of OpenAI's ChatGPT Code interpreter.",
 		"useCase": "Programming",
-		"tags": ["Open Source", "Code Interpreter", "ChatGPT"]
+		"tags": ["Open Source", "Code Interpreter", "ChatGPT"],
+		"free": true
 	},
 	{
 		"id": 69,
@@ -549,7 +617,8 @@
 		"name": "MetaGPT",
 		"description": "The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
 		"useCase": "Programming",
-		"tags": ["Multi-Agent Framework", "PRD", "Design"]
+		"tags": ["Multi-Agent Framework", "PRD", "Design"],
+		"free": true
 	},
 	{
 		"id": 70,
@@ -557,7 +626,8 @@
 		"name": "Marblism",
 		"description": "Generate a SaaS boilerplate from a prompt.",
 		"useCase": "Programming",
-		"tags": ["SaaS Boilerplate", "Automation", "Prompt-Based"]
+		"tags": ["SaaS Boilerplate", "Automation", "Prompt-Based"],
+		"free": true
 	},
 	{
 		"id": 71,
@@ -565,7 +635,8 @@
 		"name": "Elicit",
 		"description": "Elicit uses language models to help you automate research workflows, like parts of literature review.",
 		"useCase": "Academia",
-		"tags": ["Language Models", "Research Automation", "Literature Review"]
+		"tags": ["Language Models", "Research Automation", "Literature Review"],
+		"free": true
 	},
 	{
 		"id": 72,
@@ -573,7 +644,8 @@
 		"name": "genei",
 		"description": "Summarise academic articles in seconds and save 80% on your research times.",
 		"useCase": "Academia",
-		"tags": ["Article Summarization", "Research Efficiency", "Academic"]
+		"tags": ["Article Summarization", "Research Efficiency", "Academic"],
+		"free": true
 	},
 	{
 		"id": 73,
@@ -581,7 +653,8 @@
 		"name": "Explainpaper",
 		"description": "A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.",
 		"useCase": "Academia",
-		"tags": ["Paper Reading", "Text Explanation", "Academic Support"]
+		"tags": ["Paper Reading", "Text Explanation", "Academic Support"],
+		"free": true
 	},
 	{
 		"id": 74,
@@ -589,7 +662,8 @@
 		"name": "Galactica",
 		"description": "A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more.",
 		"useCase": "Academia",
-		"tags": ["Language Model", "Scientific Research", "Multi-functional"]
+		"tags": ["Language Model", "Scientific Research", "Multi-functional"],
+		"free": true
 	},
 	{
 		"id": 75,
@@ -597,7 +671,8 @@
 		"name": "Consensus",
 		"description": "Consensus is a search engine that uses AI to find answers in scientific research.",
 		"useCase": "Academia",
-		"tags": ["Search Engine", "Scientific Research", "AI"]
+		"tags": ["Search Engine", "Scientific Research", "AI"],
+		"free": true
 	},
 	{
 		"id": 76,
@@ -605,7 +680,8 @@
 		"name": "Sourcely",
 		"description": "Academic Citation Finding Tool with AI",
 		"useCase": "Academia",
-		"tags": ["Citation Tool", "Academic Research", "AI"]
+		"tags": ["Citation Tool", "Academic Research", "AI"],
+		"free": true
 	},
 	{
 		"id": 78,
@@ -613,7 +689,8 @@
 		"name": "DALL·E 3",
 		"description": "DALL·E 3 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.",
 		"useCase": "Image",
-		"tags": ["AI System", "Realistic Images", "Art Generation"]
+		"tags": ["AI System", "Realistic Images", "Art Generation"],
+		"free": "False"
 	},
 	{
 		"id": 79,
@@ -621,7 +698,8 @@
 		"name": "Stable Diffusion",
 		"description": "Stable Diffusion by Stability AI is a state-of-the-art text-to-image model that generates images from text. #opensource",
 		"useCase": "Image",
-		"tags": ["Text-to-Image", "AI Model", "Open Source"]
+		"tags": ["Text-to-Image", "AI Model", "Open Source"],
+		"free": "False"
 	},
 	{
 		"id": 80,
@@ -629,7 +707,8 @@
 		"name": "Midjourney",
 		"description": "Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
 		"useCase": "Image",
-		"tags": ["Research Lab", "Creative Exploration", "Imaginative Power"]
+		"tags": ["Research Lab", "Creative Exploration", "Imaginative Power"],
+		"free": "False"
 	},
 	{
 		"id": 81,
@@ -637,7 +716,8 @@
 		"name": "Imagen",
 		"description": "Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.",
 		"useCase": "Image",
-		"tags": ["Text-to-Image", "Photorealism", "Google"]
+		"tags": ["Text-to-Image", "Photorealism", "Google"],
+		"free": true
 	},
 	{
 		"id": 82,
@@ -645,7 +725,8 @@
 		"name": "Make-A-Scene",
 		"description": "Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.",
 		"useCase": "Image",
-		"tags": ["Multimodal Generative AI", "Creative Control", "Meta"]
+		"tags": ["Multimodal Generative AI", "Creative Control", "Meta"],
+		"free": true
 	},
 	{
 		"id": 83,
@@ -653,7 +734,8 @@
 		"name": "DragGAN",
 		"description": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.",
 		"useCase": "Image",
-		"tags": ["GAN", "Interactive Manipulation", "Generative Images"]
+		"tags": ["GAN", "Interactive Manipulation", "Generative Images"],
+		"free": true
 	},
 	{
 		"id": 84,
@@ -661,7 +743,8 @@
 		"name": "Canva",
 		"description": "Generate and Edit your Pictures with the help of AI",
 		"useCase": "Image",
-		"tags": ["Picture Editing", "AI Assistance", "Design Tool"]
+		"tags": ["Picture Editing", "AI Assistance", "Design Tool"],
+		"free": true
 	},
 	{
 		"id": 85,
@@ -669,7 +752,8 @@
 		"name": "Craiyon",
 		"description": "Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.",
 		"useCase": "Image",
-		"tags": ["AI Model", "Text Prompt", "Image Creation"]
+		"tags": ["AI Model", "Text Prompt", "Image Creation"],
+		"free": true
 	},
 	{
 		"id": 86,
@@ -677,7 +761,8 @@
 		"name": "DreamStudio",
 		"description": "DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.",
 		"useCase": "Image",
-		"tags": ["Image Generation", "User Interface", "Stable Diffusion"]
+		"tags": ["Image Generation", "User Interface", "Stable Diffusion"],
+		"free": true
 	},
 	{
 		"id": 87,
@@ -685,7 +770,8 @@
 		"name": "Artbreeder",
 		"description": "Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.",
 		"useCase": "Image",
-		"tags": ["Creative Tool", "Collaboration", "Exploration"]
+		"tags": ["Creative Tool", "Collaboration", "Exploration"],
+		"free": true
 	},
 	{
 		"id": 88,
@@ -693,7 +779,8 @@
 		"name": "GauGAN2",
 		"description": "GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.",
 		"useCase": "Image",
-		"tags": ["Photorealistic Art", "Segmentation Mapping", "Text-to-Image"]
+		"tags": ["Photorealistic Art", "Segmentation Mapping", "Text-to-Image"],
+		"free": true
 	},
 	{
 		"id": 89,
@@ -701,7 +788,8 @@
 		"name": "Magic Eraser",
 		"description": "Remove unwanted things from images in seconds.",
 		"useCase": "Image",
-		"tags": ["Image Editing", "Object Removal", "Efficiency"]
+		"tags": ["Image Editing", "Object Removal", "Efficiency"],
+		"free": true
 	},
 	{
 		"id": 90,
@@ -709,7 +797,8 @@
 		"name": "Imagine by Magic Studio",
 		"description": "A tool by Magic Studio that let's you express yourself by just describing what's on your mind.",
 		"useCase": "Image",
-		"tags": ["Creative Expression", "Description to Image", "Magic Studio"]
+		"tags": ["Creative Expression", "Description to Image", "Magic Studio"],
+		"free": true
 	},
 	{
 		"id": 91,
@@ -717,7 +806,8 @@
 		"name": "Alpaca",
 		"description": "Stable Diffusion Photoshop plugin.",
 		"useCase": "Image",
-		"tags": ["Photoshop Plugin", "Stable Diffusion", "Image Editing"]
+		"tags": ["Photoshop Plugin", "Stable Diffusion", "Image Editing"],
+		"free": true
 	},
 	{
 		"id": 92,
@@ -725,7 +815,8 @@
 		"name": "Patience.ai",
 		"description": "Patience.ai is an app for creating images with Stable Diffusion, a cutting-edge AI developed by Stability.AI.",
 		"useCase": "Image",
-		"tags": ["Image Creation", "Stable Diffusion", "AI App"]
+		"tags": ["Image Creation", "Stable Diffusion", "AI App"],
+		"free": true
 	},
 	{
 		"id": 93,
@@ -733,7 +824,8 @@
 		"name": "GenShare",
 		"description": "Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.",
 		"useCase": "Image",
-		"tags": ["Art Generation", "Multimedia", "Creativity"]
+		"tags": ["Art Generation", "Multimedia", "Creativity"],
+		"free": true
 	},
 	{
 		"id": 94,
@@ -741,7 +833,8 @@
 		"name": "Playground AI",
 		"description": "Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.",
 		"useCase": "Image",
-		"tags": ["AI Image Creator", "Art", "Social Media"]
+		"tags": ["AI Image Creator", "Art", "Social Media"],
+		"free": true
 	},
 	{
 		"id": 95,
@@ -749,7 +842,8 @@
 		"name": "Pixelz AI Art Generator",
 		"description": "Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.",
 		"useCase": "Image",
-		"tags": ["Art Generator", "Text-to-Art", "Advanced Algorithms"]
+		"tags": ["Art Generator", "Text-to-Art", "Advanced Algorithms"],
+		"free": true
 	},
 	{
 		"id": 96,
@@ -757,7 +851,8 @@
 		"name": "modyfi",
 		"description": "The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.",
 		"useCase": "Image",
-		"tags": ["Image Editor", "AI-Powered", "Collaboration"]
+		"tags": ["Image Editor", "AI-Powered", "Collaboration"],
+		"free": true
 	},
 	{
 		"id": 97,
@@ -765,7 +860,8 @@
 		"name": "Ponzu",
 		"description": "Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.",
 		"useCase": "Image",
-		"tags": ["Logo Generator", "Brand Building", "Creative Design"]
+		"tags": ["Logo Generator", "Brand Building", "Creative Design"],
+		"free": true
 	},
 	{
 		"id": 98,
@@ -773,7 +869,8 @@
 		"name": "PhotoRoom",
 		"description": "Create product and portrait pictures using only your phone. Remove background, change background and showcase products.",
 		"useCase": "Image",
-		"tags": ["Photo Editing", "Background Removal", "Product Showcase"]
+		"tags": ["Photo Editing", "Background Removal", "Product Showcase"],
+		"free": true
 	},
 	{
 		"id": 99,
@@ -781,7 +878,8 @@
 		"name": "Avatar AI",
 		"description": "Create your own AI-generated avatars.",
 		"useCase": "Image",
-		"tags": ["AI-Generated", "Avatars", "Personalization"]
+		"tags": ["AI-Generated", "Avatars", "Personalization"],
+		"free": true
 	},
 	{
 		"id": 100,
@@ -789,7 +887,8 @@
 		"name": "ClipDrop",
 		"description": "Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).",
 		"useCase": "Image",
-		"tags": ["Visual Creation", "AI-Powered", "Professional Quality"]
+		"tags": ["Visual Creation", "AI-Powered", "Professional Quality"],
+		"free": true
 	},
 	{
 		"id": 101,
@@ -797,7 +896,8 @@
 		"name": "Lensa",
 		"description": "An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.",
 		"useCase": "Image",
-		"tags": ["Image Editing", "Avatar Generation", "Stable Diffusion"]
+		"tags": ["Image Editing", "Avatar Generation", "Stable Diffusion"],
+		"free": true
 	},
 	{
 		"id": 102,
@@ -805,7 +905,8 @@
 		"name": "RunDiffusion",
 		"description": "Cloud-based workspace for creating AI-generated art.",
 		"useCase": "Image",
-		"tags": ["AI-Generated Art", "Cloud-Based", "Creative Workspace"]
+		"tags": ["AI-Generated Art", "Cloud-Based", "Creative Workspace"],
+		"free": true
 	},
 	{
 		"id": 103,
@@ -813,7 +914,8 @@
 		"name": "Human Generator",
 		"description": "AI generator or realistic looking photos of humans.",
 		"useCase": "Image",
-		"tags": ["Human Photos", "AI Generator", "Realism"]
+		"tags": ["Human Photos", "AI Generator", "Realism"],
+		"free": true
 	},
 	{
 		"id": 104,
@@ -821,7 +923,8 @@
 		"name": "VectorArt.ai",
 		"description": "Create vector images with AI.",
 		"useCase": "Image",
-		"tags": ["Vector Images", "AI Creation", "Graphic Design"]
+		"tags": ["Vector Images", "AI Creation", "Graphic Design"],
+		"free": true
 	},
 	{
 		"id": 105,
@@ -829,7 +932,8 @@
 		"name": "StockPhotoAI.net",
 		"description": "Great stock photos, made for you.",
 		"useCase": "Image",
-		"tags": ["Stock Photos", "AI-Generated", "Photography"]
+		"tags": ["Stock Photos", "AI-Generated", "Photography"],
+		"free": true
 	},
 	{
 		"id": 106,
@@ -837,7 +941,8 @@
 		"name": "Room Reinvented",
 		"description": "Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.",
 		"useCase": "Image",
-		"tags": ["Interior Design", "AI Transformation", "Room Styling"]
+		"tags": ["Interior Design", "AI Transformation", "Room Styling"],
+		"free": true
 	},
 	{
 		"id": 107,
@@ -845,7 +950,8 @@
 		"name": "RunwayML",
 		"description": "Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.",
 		"useCase": "Video",
-		"tags": ["AI Tools", "Realtime Collaboration", "Content Creation"]
+		"tags": ["AI Tools", "Realtime Collaboration", "Content Creation"],
+		"free": true
 	},
 	{
 		"id": 108,
@@ -853,7 +959,8 @@
 		"name": "Synthesia",
 		"description": "Create videos from plain text in minutes.",
 		"useCase": "Video",
-		"tags": ["Text-to-Video", "Video Creation", "Efficiency"]
+		"tags": ["Text-to-Video", "Video Creation", "Efficiency"],
+		"free": true
 	},
 	{
 		"id": 109,
@@ -861,7 +968,8 @@
 		"name": "Rephrase AI",
 		"description": "Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.",
 		"useCase": "Video",
-		"tags": ["Personalized Video", "Scale", "Engagement"]
+		"tags": ["Personalized Video", "Scale", "Engagement"],
+		"free": true
 	},
 	{
 		"id": 110,
@@ -869,7 +977,8 @@
 		"name": "Hour One",
 		"description": "Turn text into video, featuring virtual presenters, automatically.",
 		"useCase": "Video",
-		"tags": ["Text-to-Video", "Virtual Presenters", "Automation"]
+		"tags": ["Text-to-Video", "Virtual Presenters", "Automation"],
+		"free": true
 	},
 	{
 		"id": 111,
@@ -877,7 +986,8 @@
 		"name": "D-ID",
 		"description": "Create and interact with talking avatars at the touch of a button.",
 		"useCase": "Video",
-		"tags": ["Talking Avatars", "Interaction", "Ease of Use"]
+		"tags": ["Talking Avatars", "Interaction", "Ease of Use"],
+		"free": true
 	},
 	{
 		"id": 112,
@@ -885,7 +995,8 @@
 		"name": "ShortVideoGen",
 		"description": "Create short videos with audio using text prompts.",
 		"useCase": "Video",
-		"tags": ["Short Videos", "Audio", "Text Prompts"]
+		"tags": ["Short Videos", "Audio", "Text Prompts"],
+		"free": true
 	},
 	{
 		"id": 113,
@@ -893,7 +1004,8 @@
 		"name": "Clipwing",
 		"description": "A tool for cutting long videos into dozens of short clips.",
 		"useCase": "Video",
-		"tags": ["Video Editing", "Clip Generation", "Efficiency"]
+		"tags": ["Video Editing", "Clip Generation", "Efficiency"],
+		"free": true
 	},
 	{
 		"id": 114,
@@ -901,7 +1013,8 @@
 		"name": "Recast Studio",
 		"description": "AI powered podcast marketing assistant.",
 		"useCase": "Video",
-		"tags": ["Podcast Marketing", "AI Assistant", "Content Promotion"]
+		"tags": ["Podcast Marketing", "AI Assistant", "Content Promotion"],
+		"free": true
 	},
 	{
 		"id": 115,
@@ -909,7 +1022,8 @@
 		"name": "Based AI",
 		"description": "AI Intuitive Interface for Video creating",
 		"useCase": "Video",
-		"tags": ["Video Creation", "Intuitive Interface", "AI"]
+		"tags": ["Video Creation", "Intuitive Interface", "AI"],
+		"free": true
 	},
 	{
 		"id": 116,
@@ -917,7 +1031,8 @@
 		"name": "Eleven Labs",
 		"description": "AI voice generator.",
 		"useCase": "Audio",
-		"tags": ["Voice Generator", "AI", "Audio Creation"]
+		"tags": ["Voice Generator", "AI", "Audio Creation"],
+		"free": "False"
 	},
 	{
 		"id": 117,
@@ -925,7 +1040,8 @@
 		"name": "Resemble AI",
 		"description": "AI voice generator and voice cloning for text to speech.",
 		"useCase": "Audio",
-		"tags": ["Voice Cloning", "Text-to-Speech", "AI"]
+		"tags": ["Voice Cloning", "Text-to-Speech", "AI"],
+		"free": true
 	},
 	{
 		"id": 118,
@@ -933,7 +1049,8 @@
 		"name": "WellSaid",
 		"description": "Convert text to voice in real time.",
 		"useCase": "Audio",
-		"tags": ["Text-to-Voice", "Real Time", "Voice Conversion"]
+		"tags": ["Text-to-Voice", "Real Time", "Voice Conversion"],
+		"free": true
 	},
 	{
 		"id": 119,
@@ -941,7 +1058,8 @@
 		"name": "Play.ht",
 		"description": "AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.",
 		"useCase": "Audio",
-		"tags": ["Voice Generator", "Text-to-Speech", "Realistic"]
+		"tags": ["Voice Generator", "Text-to-Speech", "Realistic"],
+		"free": "False"
 	},
 	{
 		"id": 120,
@@ -949,7 +1067,8 @@
 		"name": "Coqui",
 		"description": "Generative AI for Voice.",
 		"useCase": "Audio",
-		"tags": ["Generative AI", "Voice Technology", "Audio"]
+		"tags": ["Generative AI", "Voice Technology", "Audio"],
+		"free": true
 	},
 	{
 		"id": 121,
@@ -957,7 +1076,8 @@
 		"name": "podcast.ai",
 		"description": "A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.",
 		"useCase": "Audio",
-		"tags": ["AI Podcast", "Text-to-Voice", "AI Powered"]
+		"tags": ["AI Podcast", "Text-to-Voice", "AI Powered"],
+		"free": true
 	},
 	{
 		"id": 122,
@@ -965,7 +1085,8 @@
 		"name": "VALL-E X",
 		"description": "A cross-lingual neural codec language model for cross-lingual speech synthesis.",
 		"useCase": "Audio",
-		"tags": ["Speech Synthesis", "Cross-Lingual", "Neural Codec"]
+		"tags": ["Speech Synthesis", "Cross-Lingual", "Neural Codec"],
+		"free": true
 	},
 	{
 		"id": 123,
@@ -973,7 +1094,8 @@
 		"name": "TorToiSe",
 		"description": "A multi-voice text-to-speech system trained with an emphasis on quality. #opensource",
 		"useCase": "Audio",
-		"tags": ["Text-to-Speech", "Multi-Voice", "Quality"]
+		"tags": ["Text-to-Speech", "Multi-Voice", "Quality"],
+		"free": true
 	},
 	{
 		"id": 124,
@@ -981,7 +1103,8 @@
 		"name": "Bark",
 		"description": "A transformer-based text-to-audio model. #opensource",
 		"useCase": "Audio",
-		"tags": ["Text-to-Audio", "Transformer-Based", "AI Model"]
+		"tags": ["Text-to-Audio", "Transformer-Based", "AI Model"],
+		"free": true
 	},
 	{
 		"id": 125,
@@ -989,7 +1112,8 @@
 		"name": "Harmonai",
 		"description": "We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.",
 		"useCase": "Audio",
-		"tags": ["Music Production", "Generative Audio", "Community-Driven"]
+		"tags": ["Music Production", "Generative Audio", "Community-Driven"],
+		"free": true
 	},
 	{
 		"id": 126,
@@ -997,7 +1121,8 @@
 		"name": "Mubert",
 		"description": "A royalty-free music ecosystem for content creators, brands and developers.",
 		"useCase": "Audio",
-		"tags": ["Music Ecosystem", "Royalty-Free", "Content Creation"]
+		"tags": ["Music Ecosystem", "Royalty-Free", "Content Creation"],
+		"free": true
 	},
 	{
 		"id": 127,
@@ -1005,7 +1130,8 @@
 		"name": "MusicLM",
 		"description": "A model by Google Research for generating high-fidelity music from text descriptions.",
 		"useCase": "Audio",
-		"tags": ["Music Generation", "Text-to-Music", "High-Fidelity"]
+		"tags": ["Music Generation", "Text-to-Music", "High-Fidelity"],
+		"free": true
 	},
 	{
 		"id": 128,
@@ -1013,7 +1139,8 @@
 		"name": "AICaller.io",
 		"description": "AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.",
 		"useCase": "Audio",
-		"tags": ["Automated Calling", "Generative AI", "Lead Qualification"]
+		"tags": ["Automated Calling", "Generative AI", "Lead Qualification"],
+		"free": true
 	},
 	{
 		"id": 129,
@@ -1021,7 +1148,8 @@
 		"name": "Cald.ai",
 		"description": "AI based calling agents for outbound and inbound phone calls.",
 		"useCase": "Audio",
-		"tags": ["AI Calling Agents", "Outbound Calls", "Inbound Calls"]
+		"tags": ["AI Calling Agents", "Outbound Calls", "Inbound Calls"],
+		"free": true
 	},
 	{
 		"id": 130,
@@ -1029,7 +1157,8 @@
 		"name": "Diagram",
 		"description": "Magical new ways to design products.",
 		"useCase": "Other",
-		"tags": ["Product Design", "Innovation", "Creativity"]
+		"tags": ["Product Design", "Innovation", "Creativity"],
+		"free": true
 	},
 	{
 		"id": 131,
@@ -1037,7 +1166,8 @@
 		"name": "PromptBase",
 		"description": "A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.",
 		"useCase": "Other",
-		"tags": ["Marketplace", "Prompts", "AI Models"]
+		"tags": ["Marketplace", "Prompts", "AI Models"],
+		"free": true
 	},
 	{
 		"id": 132,
@@ -1045,7 +1175,8 @@
 		"name": "This Image Does Not Exist",
 		"description": "Test your ability to tell if an image is human or computer generated.",
 		"useCase": "Other",
-		"tags": ["Image Verification", "AI-generated Images", "Challenge"]
+		"tags": ["Image Verification", "AI-generated Images", "Challenge"],
+		"free": true
 	},
 	{
 		"id": 133,
@@ -1053,7 +1184,8 @@
 		"name": "Have I Been Trained?",
 		"description": "Check if your image has been used to train popular AI art models.",
 		"useCase": "Other",
-		"tags": ["Image Use", "AI Training", "Art Models"]
+		"tags": ["Image Use", "AI Training", "Art Models"],
+		"free": true
 	},
 	{
 		"id": 134,
@@ -1061,7 +1193,8 @@
 		"name": "AI Dungeon",
 		"description": "A text-based adventure-story game you direct (and star in) while the AI brings it to life.",
 		"useCase": "Other",
-		"tags": ["Adventure Game", "AI-driven", "Storytelling"]
+		"tags": ["Adventure Game", "AI-driven", "Storytelling"],
+		"free": true
 	},
 	{
 		"id": 135,
@@ -1069,7 +1202,8 @@
 		"name": "Clickable",
 		"description": "Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.",
 		"useCase": "Other",
-		"tags": ["Ad Generation", "Marketing", "Brand Consistency"]
+		"tags": ["Ad Generation", "Marketing", "Brand Consistency"],
+		"free": true
 	},
 	{
 		"id": 136,
@@ -1077,7 +1211,8 @@
 		"name": "Scale Spellbook",
 		"description": "Build, compare, and deploy large language model apps with Scale Spellbook.",
 		"useCase": "Other",
-		"tags": ["LLM Apps", "Development", "App Deployment"]
+		"tags": ["LLM Apps", "Development", "App Deployment"],
+		"free": true
 	},
 	{
 		"id": 137,
@@ -1085,7 +1220,8 @@
 		"name": "Scenario",
 		"description": "AI-generated gaming assets.",
 		"useCase": "Other",
-		"tags": ["Gaming", "AI-generated Assets", "Game Development"]
+		"tags": ["Gaming", "AI-generated Assets", "Game Development"],
+		"free": true
 	},
 	{
 		"id": 138,
@@ -1093,7 +1229,8 @@
 		"name": "Teleprompter",
 		"description": "An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.",
 		"useCase": "Other",
-		"tags": ["AI Assistance", "Meetings", "Quote Generation"]
+		"tags": ["AI Assistance", "Meetings", "Quote Generation"],
+		"free": true
 	},
 	{
 		"id": 139,
@@ -1101,7 +1238,8 @@
 		"name": "FinChat",
 		"description": "Using AI, FinChat generates answers to questions about public companies and investors.",
 		"useCase": "Other",
-		"tags": ["Finance", "Investor Information", "AI Chat"]
+		"tags": ["Finance", "Investor Information", "AI Chat"],
+		"free": true
 	},
 	{
 		"id": 140,
@@ -1109,7 +1247,8 @@
 		"name": "Petals",
 		"description": "BitTorrent style platform for running AI models in a distributed way.",
 		"useCase": "Other",
-		"tags": ["Distributed AI", "Model Execution", "Collaborative"]
+		"tags": ["Distributed AI", "Model Execution", "Collaborative"],
+		"free": true
 	},
 	{
 		"id": 141,
@@ -1117,7 +1256,8 @@
 		"name": "Shotstack Workflows",
 		"description": "No-code, automation workflow tool for building Generative AI media applications.",
 		"useCase": "Other",
-		"tags": ["No-code", "Workflow Automation", "Media Applications"]
+		"tags": ["No-code", "Workflow Automation", "Media Applications"],
+		"free": true
 	},
 	{
 		"id": 142,
@@ -1125,7 +1265,8 @@
 		"name": "Aispect",
 		"description": "New way to experience events.",
 		"useCase": "Other",
-		"tags": ["Event Experience", "Innovation", "AI Technology"]
+		"tags": ["Event Experience", "Innovation", "AI Technology"],
+		"free": true
 	},
 	{
 		"id": 143,
@@ -1133,7 +1274,8 @@
 		"name": "PressPulse AI",
 		"description": "Get personalized media coverage leads every morning.",
 		"useCase": "Other",
-		"tags": ["Media Coverage", "Personalization", "AI Analysis"]
+		"tags": ["Media Coverage", "Personalization", "AI Analysis"],
+		"free": true
 	},
 	{
 		"id": 144,
@@ -1141,7 +1283,8 @@
 		"name": "GummySearch",
 		"description": "AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.",
 		"useCase": "Other",
-		"tags": ["Customer Research", "Reddit", "Sentiment Analysis"]
+		"tags": ["Customer Research", "Reddit", "Sentiment Analysis"],
+		"free": true
 	},
 	{
 		"id": 145,
@@ -1149,7 +1292,8 @@
 		"name": "Taplio",
 		"description": "The all-in-one, AI-powered LinkedIn tool.",
 		"useCase": "Other",
-		"tags": ["LinkedIn", "AI Tool", "Professional Networking"]
+		"tags": ["LinkedIn", "AI Tool", "Professional Networking"],
+		"free": true
 	},
 	{
 		"id": 146,
@@ -1157,7 +1301,8 @@
 		"name": "PromptPal",
 		"description": "Search for prompts and bots, then use them with your favorite AI. All in one place.",
 		"useCase": "Other",
-		"tags": ["Prompts", "AI Bots", "Resource Hub"]
+		"tags": ["Prompts", "AI Bots", "Resource Hub"],
+		"free": true
 	},
 	{
 		"id": 147,
@@ -1165,7 +1310,8 @@
 		"name": "FairyTailAI",
 		"description": "Personalized bedtime story generator",
 		"useCase": "Other",
-		"tags": ["Storytelling", "Personalization", "AI Generator"]
+		"tags": ["Storytelling", "Personalization", "AI Generator"],
+		"free": true
 	},
 	{
 		"id": 148,
@@ -1173,7 +1319,8 @@
 		"name": "Myriad",
 		"description": "Scale your content creation and get the best writing from ChatGPT, Copilot, and other AIs. Build and fine-tune prompts for any kind of content, from long-form to ads and email.",
 		"useCase": "Other",
-		"tags": ["Content Creation", "Writing Assistance", "Prompt Tuning"]
+		"tags": ["Content Creation", "Writing Assistance", "Prompt Tuning"],
+		"free": true
 	},
 	{
 		"id": 149,
@@ -1181,7 +1328,8 @@
 		"name": "GradGPT",
 		"description": "AI tools to simplify college applications. Review applications, draft essays, find universities and requirements and more.",
 		"useCase": "Other",
-		"tags": ["Education", "College Applications", "AI Assistance"]
+		"tags": ["Education", "College Applications", "AI Assistance"],
+		"free": true
 	},
 	{
 		"id": 150,
@@ -1189,7 +1337,8 @@
 		"name": "Code to Flow",
 		"description": "Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.",
 		"useCase": "Other",
-		"tags": ["Code Visualization", "Flowcharts", "AI Analysis"]
+		"tags": ["Code Visualization", "Flowcharts", "AI Analysis"],
+		"free": true
 	},
 	{
 		"id": 151,
@@ -1197,7 +1346,8 @@
 		"name": "AI-Flow",
 		"description": "Connect multiple AI models easily.",
 		"useCase": "Other",
-		"tags": ["AI Integration", "Model Connectivity", "Technology"]
+		"tags": ["AI Integration", "Model Connectivity", "Technology"],
+		"free": true
 	},
 	{
 		"id": 152,
@@ -1205,6 +1355,16 @@
 		"name": "Architecture Helper",
 		"description": "Analyze any building architecture, and generate your own custom styles, in seconds.",
 		"useCase": "Other",
-		"tags": ["Architecture Analysis", "Style Generation", "AI Tool"]
+		"tags": ["Architecture Analysis", "Style Generation", "AI Tool"],
+		"free": true
+	},
+	{
+		"id": 153,
+		"url": "https://www.visus.ai/",
+		"name": "Visus",
+		"description": "Create your own ChatGPT AI",
+		"useCase": "Chatbot",
+		"tags": ["ChatGPT", "AI Creation", "Chatbot"],
+		"free": "Free"
 	}
 ]
