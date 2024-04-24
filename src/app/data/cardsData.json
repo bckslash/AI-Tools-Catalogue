@@ -1366,5 +1366,14 @@
 		"useCase": "Chatbot",
 		"tags": ["ChatGPT", "AI Creation", "Chatbot"],
 		"free": "Free"
+	},
+	{
+		"id": 154,
+		"url": "https://www.phind.com/",
+		"name": "Claude",
+		"description": "Claude is a next generation AI assistant built for work and trained to be safe, accurate, and secure.",
+		"useCase": "Chatbot",
+		"tags": ["Chatbot", "Conversational", "Language Model"],
+		"free": true
 	}
 ]
